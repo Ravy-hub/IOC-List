@@ -10,5 +10,6 @@ cf-ipfs.com
 gateway.pinata.cloud
 2read.net
 ipfs.2read.net
+www.nrk.no
 727fe34981030e2ade02c5681bcb5dc953b7d651edf4eec66bb0be5f63ad5ba7
 c6e2b27a9f3a5bb96c5480942b547f66ed8f3f82
