@@ -10,3 +10,7 @@
 //"url","https://www.google.com","Threat advisory"
 //"domain","google.com","TA"
 "domain","micsrosoftonline.com","TA"
+"url","http://micsrosoftonline.com/cdn-cgi/styles/main.css","TA"
+"url","https://okta.micsrosoftonline.com","TA"
+"url","http://micsrosoftonline.com","TA"
+
