@@ -99,6 +99,12 @@
 "ip","45.87.213.219","public"
 "ip","47.107.69.220","public"
 "ip","61.4.97.157","public"
+"domain","x44xfqf.onmicrosoft.com","Attacker Tenant Domain"
+"domain","woodedlif.onmicrosoft.com","Attacker Tenant Domain"
+"domain","xeyi1ba.onmicrosoft.com","Attacker Tenant Domain"
+"domain","x44xfgf.onmicrosoft.com","Attacker Tenant Domain"
+"domain","invites@microsoft.com,"Sender address for Entra invites"
+
 
 
 
