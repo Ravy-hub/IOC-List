@@ -23,9 +23,9 @@
 "domain","due.sh","public"
 "ip","84.32.84.32","public"
 "domain","lastpasspulse.blog","public"
-"ip","13.229.126.203","public"
-"ip","13.229.231.0","public"
-"ip","13.250.97.171","public"
+//"ip","13.229.126.203","public"
+//"ip","13.229.231.0","public"
+//"ip","13.250.97.171","public"
 "ip","146.70.113.100","public"
 "ip","146.70.113.107","public"
 "ip","146.70.113.108","public"
@@ -171,6 +171,7 @@
 "hash_sha256","26db06a2319c09918225e59c404448d92fe31262834d70090e941093e6bb650a","hostfxr.dll"
 "domain","fsdgh.com","public"
 "domain","my.microsoftpersonalcontent.com","public"
+
 
 
 
