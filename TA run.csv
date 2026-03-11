@@ -21,7 +21,6 @@
 "ip","172.67.219.2","public"
 "domain","lastpassgazette.blog","public"
 "domain","due.sh","public"
-"domain","bitly.cx","public"
 "ip","84.32.84.32","public"
 "domain","lastpasspulse.blog","public"
 "ip","13.229.126.203","public"
@@ -172,6 +171,7 @@
 "hash_sha256","26db06a2319c09918225e59c404448d92fe31262834d70090e941093e6bb650a","hostfxr.dll"
 "domain","fsdgh.com","public"
 "domain","my.microsoftpersonalcontent.com","public"
+
 
 
 
