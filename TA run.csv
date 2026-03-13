@@ -23,9 +23,9 @@
 "domain","due.sh","public"
 "ip","84.32.84.32","public"
 "domain","lastpasspulse.blog","public"
-//"ip","13.229.126.203","public"
-//"ip","13.229.231.0","public"
-//"ip","13.250.97.171","public"
+"ip","13.229.126.203","public"
+"ip","13.229.231.0","public"
+"ip","13.250.97.171","public"
 "ip","146.70.113.100","public"
 "ip","146.70.113.107","public"
 "ip","146.70.113.108","public"
@@ -65,7 +65,7 @@
 "domain","asj99.com","public"
 "ip","194.169.163.140","public"
 "ip","193.221.200.233","public"
-//"ip","13.223.25.84","public"
+"ip","13.223.25.84","public"
 "domain","wmk77.com","public"
 "domain","8eh18dhq9wd.click","public"
 "hash_sha256","cd3604fb9fe210261de11921ff1bea0a7bf948ad477d063e17863cede1fadc41","Ps1.ps1"
@@ -178,6 +178,7 @@
 "domain","jellyfish.systems","public"
 "domain","registrar-servers.com","public"
 "domain","google.com","public"
+
 
 
 
